@@ -1,10 +1,7 @@
 # ChatApp Backend Server [server]
 App is built with Nodejs framework Express.
 
-## To run the app locally in your system:
-Navigate to the project folder in your terminal:
-`npm install` would install all the dependencies and 
-`nodemon` would start a local ldev server at http://localhost:3000/.
+To run the app locally in your system:Navigate to the project folder in your terminal: `npm install` would install all the dependencies and `nodemon` would start a local ldev server at http://localhost:3000/.
  I havent completed test cases for backend yet, time was short, although  I can update the repo later.
 
 --------------------------------------------------------------------------
