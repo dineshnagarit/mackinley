@@ -19,3 +19,7 @@ Run `ng e2e` to execute the end-to-end tests
 
 #### In case of any discrepancy please call me at +919818490692 or mail at dineshnagarit@gmail.com , I could have make it more rich in features but due to time constraint wasnt able to do it. please let me know if there is any query or suggestions.
 
+// To Do
+1. Write unit test case for the left functionality.
+2. Convert all the code to es6 standard format. 
+
